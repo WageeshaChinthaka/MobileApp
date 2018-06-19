@@ -9,7 +9,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.example.umanga.clicker.Main2Activity"
-    android:background="@drawable/app_back"
+    android:background="@drawable/new2"
 
     >
 

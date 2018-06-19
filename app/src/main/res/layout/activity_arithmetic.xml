@@ -9,7 +9,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.umanga.clicker.Arithmetic"
-    android:background="@drawable/app_back">
+    android:background="@drawable/new2">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"

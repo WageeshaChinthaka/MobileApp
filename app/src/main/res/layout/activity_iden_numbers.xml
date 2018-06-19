@@ -9,6 +9,6 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.umanga.clicker.Iden_numbers"
-    android:background="@drawable/app_back">
+    android:background="@drawable/new2">
 
 </RelativeLayout>
